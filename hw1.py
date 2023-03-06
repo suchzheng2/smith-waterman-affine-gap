@@ -34,7 +34,6 @@ def runSW(inputFile, scoreFile, openGap, extGap):
 
 	#remove spaces in lines if there is any
 	input_lines = [line.strip() for line in input_lines]
-	print("input_lines: ",input_lines)
 	col_seq = input_lines[0]
 	row_seq = input_lines[1]
 	
@@ -247,4 +246,5 @@ def runSW(inputFile, scoreFile, openGap, extGap):
 
 
 ### Run your Smith-Waterman Algorithm
-runSW(args.input, args.score, args.opengap, args.extgap)
+runSW(args.input, args.score, int(args.opengap), int(args.extgap))
+
