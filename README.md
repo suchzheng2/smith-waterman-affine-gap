@@ -14,6 +14,14 @@ pip install git+https://github.com/suchzheng2/smith-waterman-affine-gap.git
 
 ### sample command
 
+Note Before you run any of the following code, make sure you are under the subfolder ./smith-waterman-affine-gap/smith-waterman-affine-gap by running
+
+```
+cd smith-waterman-affine-gap 
+```
+
+sample commands:
+
 ```
 python hw1.py -i sample-input1.txt -s blosum62.txt
 ```
