@@ -1,6 +1,10 @@
 # smith-waterman-affine-gap
 
-This is a submission to CBB752 hw1 from Suchen Zheng
+This is a submission to CBB752 hw1 from Suchen Zheng. 
+
+Link to github: https://github.com/suchzheng2/smith-waterman-affine-gap
+
+File  ./smith-waterman-affine-gap/hw1.py can be download and test seperately for grading purpose. 
 
 ### How to install:
 
@@ -14,7 +18,7 @@ pip install git+https://github.com/suchzheng2/smith-waterman-affine-gap.git
 
 ### sample command
 
-Note Before you run any of the following code, make sure you are under the subfolder ./smith-waterman-affine-gap/smith-waterman-affine-gap by running
+Note Before you run any of the following code, make sure you are under the subfolder ./smith-waterman-affine-gap by running
 
 ```
 cd smith-waterman-affine-gap 
