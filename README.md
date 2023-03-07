@@ -2,6 +2,16 @@
 
 This is a submission to CBB752 hw1 from Suchen Zheng
 
+### How to install:
+
+You can either download the code using the green botton "Code" from left top on this page,
+
+or run the following code in your terminal:
+
+```
+pip install git+https://github.com/suchzheng2/smith-waterman-affine-gap.git
+```
+
 ### sample command
 
 ```
